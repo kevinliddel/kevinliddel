@@ -10,12 +10,16 @@ A developer passionate about creating interactive 3D characters and AI-driven ch
 
 ![](./assets/snake/github-contribution-grid-snake.svg)
 
+## GitHub Profile
+
+<img src="https://raw.githubusercontent.com/kevinliddel/kevinliddel/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="800" />
+
 
 ## GitHub Statistics
 
-<img src="https://github-readme-stats.lekoowo.vercel.app/api?username=kevinliddel&show_icons=true&theme=graywhite&count_private=true&cache_seconds=1800" />
+<img src="https://github-readme-stats.lekoowo.vercel.app/api?username=kevinliddel&show_icons=true&theme=graywhite&count_private=true&cache_seconds=1800" width="400" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kevinliddel&utcOffset=+3" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kevinliddel&utcOffset=+3" width="400" />
 
 
 ## Languages & Technologies
