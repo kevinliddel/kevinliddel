@@ -9,6 +9,10 @@ on:
       - main
   workflow_dispatch:
 
+concurrency:
+  group: profile-readme-update
+  cancel-in-progress: false
+
 jobs:
   generate:
     permissions: 
