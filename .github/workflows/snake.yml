@@ -33,6 +33,9 @@ jobs:
             assets/snake/github-contribution-grid-snake.svg
             assets/snake/github-contribution-grid-snake-dark.svg?palette=github-dark
             
+      - name: Pull latest changes
+        run: git pull --rebase origin main
+
       - name: Commit & Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
         with:

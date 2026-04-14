@@ -1,4 +1,4 @@
-# ✨ Do what thou wilt shall be the whole of the Law ✨
+# ✨ The Dedicated Lamb protects the knowledge of the Strong ✨
 
 A developer passionate about creating interactive 3D characters and AI-driven chat applications.
 
@@ -23,15 +23,9 @@ A developer passionate about creating interactive 3D characters and AI-driven ch
 
 ## GitHub Statistics (2026)
 
-<div align="center">
-  <table width="100%">
-      <td width="50%">
-        <img src="https://raw.githubusercontent.com/kevinliddel/kevinliddel/main/profile-summary-card-output/github/3-stats.svg" width="100%" />
-      </td>
-      <td width="50%">
-        <img src="https://raw.githubusercontent.com/kevinliddel/kevinliddel/main/profile-summary-card-output/github/4-productive-time.svg" width="100%" />
-      </td>
-  </table>
+<div align="center" style="display: flex; gap: 5px;">
+    <img src="https://raw.githubusercontent.com/kevinliddel/kevinliddel/main/profile-summary-card-output/github/3-stats.svg" width="50%" />
+    <img src="https://raw.githubusercontent.com/kevinliddel/kevinliddel/main/profile-summary-card-output/github/4-productive-time.svg" width="50%" />
 </div>
 
 ## Languages & Technologies
