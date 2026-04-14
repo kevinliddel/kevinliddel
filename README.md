@@ -25,10 +25,10 @@ A developer passionate about creating interactive 3D characters and AI-driven ch
 
 
 
-<div align="center" style="display: flex; flex-direction: row; gap: 5px;">
-    <img src="https://raw.githubusercontent.com/kevinliddel/kevinliddel/main/profile-summary-card-output/github/3-stats.svg" width="50%" />
-    <img src="https://raw.githubusercontent.com/kevinliddel/kevinliddel/main/profile-summary-card-output/github/4-productive-time.svg" width="50%" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kevinliddel/kevinliddel/main/profile-summary-card-output/github/3-stats.svg" width="49%" />
+  <img src="https://raw.githubusercontent.com/kevinliddel/kevinliddel/main/profile-summary-card-output/github/4-productive-time.svg" width="49%" />
+</p>
 
 ## Languages & Technologies
 
