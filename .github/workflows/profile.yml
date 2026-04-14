@@ -34,7 +34,7 @@ jobs:
           AUTO_PUSH: false
 
       - name: Pull latest changes
-        run: git pull --rebase origin main
+        run: git pull --rebase --autostash origin main
 
       - name: Commit & Push changes
         uses: stefanzweifel/git-auto-commit-action@v4
