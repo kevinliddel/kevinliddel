@@ -27,3 +27,9 @@ jobs:
           USERNAME: kevinliddel
           BRANCH_NAME: "main"
           UTC_OFFSET: 3
+          AUTO_PUSH: false
+
+      - name: Commit & Push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: sync Profile Summary Cards"
