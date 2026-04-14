@@ -24,15 +24,13 @@ A developer passionate about creating interactive 3D characters and AI-driven ch
 ## GitHub Statistics (2026)
 
 <div align="center">
-  <table width="100%" border="0" cellspacing="5" cellpadding="0">
-    <tr>
+  <table width="100%">
       <td width="50%">
         <img src="https://raw.githubusercontent.com/kevinliddel/kevinliddel/main/profile-summary-card-output/github/3-stats.svg" width="100%" />
       </td>
       <td width="50%">
         <img src="https://raw.githubusercontent.com/kevinliddel/kevinliddel/main/profile-summary-card-output/github/4-productive-time.svg" width="100%" />
       </td>
-    </tr>
   </table>
 </div>
 
