@@ -31,6 +31,6 @@ A developer passionate about creating interactive 3D characters and AI-driven ch
 ## Languages & Technologies
 
 <div align="left">
-  <img src="https://github-readme-stats.lekoowo.vercel.app/api/top-langs/?username=kevinliddel&theme=graywhite&count_private=true&langs_count=20&layout=compact&cache_seconds=1800" width="50%" />
+  <img src="https://ghstats.dev/api/langs?username=kevinliddel&theme=sakura&layout=compact" width="50%" />
 </div>
 
